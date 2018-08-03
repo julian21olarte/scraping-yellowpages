@@ -5,13 +5,15 @@
 ### Usage ###
 
 * install dependencies
-```
+
 #!javascript
+```
 npm install
 ```
 
 * run the script
-```
+  
 #!javascript
+```
 npm start
 ```
